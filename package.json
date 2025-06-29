@@ -1,18 +1,33 @@
 {
   "name": "madlabjs",
-  "version": "1.0.0",
+  "version": "1.0.1", 
   "main": "README.md",
   "license": "MIT",
   "files": [
     "alert",
     "animation",
+    "auto_complete",
+    "buttons",
     "canvas",
+    "checkbox",
     "custom_checkbox",
     "database",
+    "datepicker",
     "fragments",
+    "imagestoggle",
     "intent",
     "menu",
     "progress",
-    "shared_prefrence"
+    "radiobutton",
+    "seebuttonscalci",
+    "seecustomtoast",
+    "seelayouts",
+    "seelifetime",
+    "shared_prefrence",
+    "spinner",
+    "textview",
+    "timepicker",
+    "togglebutton_1image",
+    "twoimagetoggle"
   ]
 }
