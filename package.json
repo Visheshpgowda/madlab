@@ -1,9 +1,10 @@
 {
   "name": "madlabjs",
-  "version": "1.0.2",
+  "version": "1.0.3",
   "main": "README.md",
   "license": "MIT",
   "files": [
+
     "alert",
     "animation",
     "auto_complete",
@@ -17,6 +18,7 @@
     "imagestoggle",
     "intent",
     "menu",
+    "others",
     "progress",
     "radiobutton",
     "seebuttonscalci",
@@ -28,6 +30,7 @@
     "textview",
     "timepicker",
     "togglebutton_1image",
+    "textandimage2",
     "twoimagetoggle"
   ]
 }
